@@ -35,7 +35,7 @@
   
   ## Usage 
   
-  Clone the repository, run the install command and then 'npm start'. Then navigate to the localhost port.
+  Clone the repository, run the install command and then 'npm start' or 'npm develop'. Then navigate to the localhost port.
 
   ### Deployed Link
   not deployed yet
